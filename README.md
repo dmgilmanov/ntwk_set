@@ -9,7 +9,3 @@ Install Python 3.x and Netmiko library.
 
 1. Add commands to config_command.txt file
 2. Run ntwk_set_config.py scripts
-
-## Authors
-
-*** Damir Gilmanov *** (http://dmgilmanov.org)
