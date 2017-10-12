@@ -1,4 +1,4 @@
-# About ntwk_set
+# About ntwk_set script
 Simple Python script for automation every day network tasks.
 
 ## Prerequisites
